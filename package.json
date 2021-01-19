@@ -1,0 +1,19 @@
+{
+  "name": "jsdocdemo",
+  "version": "1.0.0",
+  "description": "This package demonstrates how to use jsdoc",
+  "main": "index.js",
+  "scripts": {
+    "doc": "jsdoc -c jsdoc.config.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "js-doc": "^0.5.0"
+  },
+  "devDependencies": {
+    "jsdoc": "^3.6.6",
+    "postman-jsdoc-theme": "0.0.3"
+  }
+}
